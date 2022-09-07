@@ -1,1 +1,18 @@
-# PROJECT15
+ ## Author 
+ DABHOLKAR NUZHAT 
+ 
+# Project Title
+PROJECT:15(HTML & CSS)
+IN THIS PROJECT I USED THE CSS FLEX PROPERTY.
+MOSTLY I USED FLEX ROW  PROPERTY. IT'S A VERY EASY AND SIMPLE PROJECT AND YES IT IS MY 15TH PROJECT .
+
+
+
+ # What you have learnt in this project
+FLEX PROPERTY 
+
+## Time
+ NEED 6 HOURS TO DO THIS PROJECT
+
+## 🔗 Links
+[PROJECT  15 ](https://project15a.netlify.app/)
